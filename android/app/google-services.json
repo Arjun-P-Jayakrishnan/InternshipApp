@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953918642950",
+    "project_id": "manage-recruit-d355c",
+    "storage_bucket": "manage-recruit-d355c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953918642950:android:1c2925680ed5265b2edc87",
+        "android_client_info": {
+          "package_name": "com.manageRecruit.manage_employee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953918642950-mtvkrgedjlvl5bqmsvu8fgvcpcma2e6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEaPgNEeNEeQ9-T0FiiyiQvuaWA9p3zCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953918642950-mtvkrgedjlvl5bqmsvu8fgvcpcma2e6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
